@@ -1,4 +1,4 @@
-### Olá 👋 Me chamo Laxus
+## Olá 👋 Me chamo Gustavo Oliveira
 Desenvolvedor BackEnd
 
 ### Ferramentas que Trabalho
