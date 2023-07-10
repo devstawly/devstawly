@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/Downzin01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laxusdev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxusdev&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stawlydev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stawlydev&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
 ## Veja onde eu fico também! 😀
