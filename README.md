@@ -2,7 +2,7 @@
 
 <h2>Hello World ☕</h2>
 
-<p>Gustavo, ou mais conhecido como Laxus, é um Desenvolvedor Backend. Extremamente apaixonado por café e gosta de se aventurar em novos desafios.</p>
+<p>Gustavo, ou mais conhecido como Stawly, é um Desenvolvedor Backend. Extremamente apaixonado por café e gosta de se aventurar em novos desafios.</p>
 
 </br>
 
