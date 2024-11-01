@@ -1,18 +1,16 @@
 <img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Stawly">
 
-<h2>Hello World ☕</h2>
+### 👋🌍 Hello, I'm Stawly.
 
 <p>Developer from @falconvisionbrasil</p>
 
 </br>
 
-Developer from @falconvisionbrasil
+[![Instagram Badge](https://img.shields.io/badge/-@deathstaw-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://instagram.com/deathstaw)](https://instagram.com/deathstaw) 
+[![Discord Badge](https://img.shields.io/badge/-ostawly-00875f?style=flat-square&labelColor=00875f&logo=discord&logoColor=white&link=https://discord.com/users/1231641424911663124)](https://discord.com/users/1231641424911663124) 
+[![E-mail Badge](https://img.shields.io/badge/-stawlydev@outlook.com-00875f?style=flat-square&labelColor=00875f&logo=gmail&logoColor=white&link=mailto:stawlydev@outlook.com)](mailto:stawlydev@outlook.com) 
 
-[![Instagram Badge](https://img.shields.io/badge/-@igdiogo-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://instagram.com/igdiogo)](https://instagram.com/igdiogo) 
-[![Discord Badge](https://img.shields.io/badge/-.blueN-00875f?style=flat-square&labelColor=00875f&logo=discord&logoColor=white&link=https://discord.com/users/871095722844495893)](https://discord.com/users/871095722844495893) 
-[![E-mail Badge](https://img.shields.io/badge/-diogodev@icloud.com-00875f?style=flat-square&labelColor=00875f&logo=gmail&logoColor=white&link=mailto:diogodev@icloud.com)](mailto:diogodev@icloud.com) 
-
-I am currently working on server projects for GTA across various platforms, both for SA, FIVEM, and MTA.
+I am currently working on server projects for GTA across various platforms, both for SA, FiveM, and MTA.
 
 I have knowledge of some programming languages that I will list below. I am totally back-end but I can try to do some front-end work even though it is not my main area of expertise.
 
