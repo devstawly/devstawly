@@ -4,7 +4,7 @@
 <p>Developer from @falconvisionbrasil</p>
 </br>
 
-[![Instagram Badge](https://img.shields.io/badge/-@deathstaw-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://instagram.com/deathstaw)](https://instagram.com/deathstaw) 
+[![Instagram Badge](https://img.shields.io/badge/-@theghxstface-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://instagram.com/deathstaw)](https://instagram.com/theghxstface) 
 [![Discord Badge](https://img.shields.io/badge/-ostawly-00875f?style=flat-square&labelColor=00875f&logo=discord&logoColor=white&link=https://discord.com/users/1231641424911663124)](https://discord.com/users/1231641424911663124) 
 [![E-mail Badge](https://img.shields.io/badge/-stawlydev@outlook.com-00875f?style=flat-square&labelColor=00875f&logo=gmail&logoColor=white&link=mailto:stawlydev@outlook.com)](mailto:stawlydev@outlook.com) 
 
