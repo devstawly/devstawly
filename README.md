@@ -1,11 +1,11 @@
 <img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Stawly">
 
 ### 👋🌍 Hello, I'm Stawly.
-<p>Developer from @falconvisionbrasil</p>
+<p>Developer from @setepixelsbrasil</p>
 </br>
 
-[![Instagram Badge](https://img.shields.io/badge/-@theghxstface-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://instagram.com/theghxstface)](https://instagram.com/theghxstface) 
-[![Discord Badge](https://img.shields.io/badge/-thestawly-00875f?style=flat-square&labelColor=00875f&logo=discord&logoColor=white&link=https://discord.com/users/1231641424911663124)](https://discord.com/users/1231641424911663124) 
+[![Instagram Badge](https://img.shields.io/badge/-@ghxstdeath-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://instagram.com/ghxstdeath)](https://instagram.com/ghxstdeath) 
+[![Discord Badge](https://img.shields.io/badge/-iamstawly-00875f?style=flat-square&labelColor=00875f&logo=discord&logoColor=white&link=https://discord.com/users/1231641424911663124)](https://discord.com/users/1231641424911663124) 
 [![E-mail Badge](https://img.shields.io/badge/-stawlydev@outlook.com-00875f?style=flat-square&labelColor=00875f&logo=gmail&logoColor=white&link=mailto:stawlydev@outlook.com)](mailto:stawlydev@outlook.com) 
 
 I am currently working on server projects for GTA across various platforms, both for SA, FiveM, and MTA.
