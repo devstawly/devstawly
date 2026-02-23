@@ -1,16 +1,37 @@
-<img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Stawly">
+<p align="center">
+  <img 
+    src="https://i.imgur.com/oaK4xep.png"
+    alt="Gustavo Costa"
+    width="640"
+  />
+</p>
 
-### 👋🌍 Hello, I'm Stawly.
-<p>Developer from @setepixelsbrasil</p>
-</br>
+**Desenvolvedor**
 
-[![Instagram Badge](https://img.shields.io/badge/-@ghxstdeath-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://instagram.com/ghxstdeath)](https://instagram.com/ghxstdeath) 
-[![Discord Badge](https://img.shields.io/badge/-iamstawly-00875f?style=flat-square&labelColor=00875f&logo=discord&logoColor=white&link=https://discord.com/users/1231641424911663124)](https://discord.com/users/1231641424911663124) 
-[![E-mail Badge](https://img.shields.io/badge/-stawlydev@outlook.com-00875f?style=flat-square&labelColor=00875f&logo=gmail&logoColor=white&link=mailto:stawlydev@outlook.com)](mailto:stawlydev@outlook.com) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stawlydev@outlook.com)](mailto:stawlydev@outlook.com) 
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/devstawly)](https://github.com/devstawly)
 
-I am currently working on server projects for GTA across various platforms, both for SA, FiveM, and MTA.
+---
 
-I have knowledge of some programming languages that I will list below. I am totally back-end but I can try to do some front-end work even though it is not my main area of expertise.
+## Sobre Mim
+
+Sou desenvolvedor com experiência em PHP, JavaScript e WordPress, sempre em busca de oportunidades para aplicar minha paixão por tecnologia e inovação. Atualmente, também sou estudante de Direito.
+
+---
+
+## Habilidades
+
+- **Linguagens de Programação:** HTML, CSS, JavaScript (JS), PHP, Node.js.
+- **Frameworks e Plataformas:** WordPress, Node.js.
+- **Versionamento de Código:** Git, GitHub.
+- **Desenvolvimento de API:** APIs RESTful.
+- **Banco de Dados:** SQL.
+- **Atendimento ao Cliente:** Identificação de necessidades e resolução de problemas.
+- **Informática Avançada:** Software de produtividade, sistemas operacionais, resolução de problemas técnicos.
+- **Design:** Adobe Photoshop, Premiere, Illustrator, After Effects.
+- **Idiomas:** Inglês Intermediário II.
+
+---
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Stawly" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -23,3 +44,9 @@ I have knowledge of some programming languages that I will list below. I am tota
   <img align="center" alt="Stawly" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
   <img align="center" alt="Stawly" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain.svg">
   <img align="center" alt="Stawly" height="30" width="40" src="https://i.imgur.com/VJLHjfM.png">
+
+## Contato
+
+- [GitHub](https://github.com/devstawly)
+- [WhatsApp](http://wa.me/13997912038)
+- [E-mail](mailto:stawlydev@outlook.com)
